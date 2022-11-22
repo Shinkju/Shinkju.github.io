@@ -13,7 +13,7 @@
 .user-projects {
   // margin: 20px auto;
   img {
-    max-width: 100%;
+    max-width:   100%;
     height: auto;
     border-radius: 5px;
   }
@@ -55,13 +55,6 @@
   }
 }
 
-.contents-left {
-  @media only screen and (min-width: $cut) {
-    float: left;
-    margin-top: -5%;
-    width: 48%;
-  }
-}
 .images-left {
   @media only screen and (min-width: $cut) {
     float: left;
